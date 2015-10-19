@@ -1,0 +1,3 @@
+This is line1 and gets changed from terminal.
+This is line2 and it does the same.
+This is the last line that is inputted in terminal.
